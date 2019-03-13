@@ -14,11 +14,11 @@ tbsdisc
 
 Throttle
 
-Source: THR Trim idle only: No Warning: Yes Reversed: No
+No
 
 Trims
 
-Step: Fine Display: Never Extended: No
+No
 
 Center Beep
 
@@ -30,11 +30,11 @@ SA↑ SB↑ SC↑ SD↑ SE↑ SF↑ SG↑
 
 Pot Warnings
 
-Mode: OFF
+OFF
 
 Other
 
-Extended Limits: No Display Checklist: No Global Functions: Yes
+Yes
 
 Timers
 
@@ -88,15 +88,15 @@ Modules
 
 Internal Radio System
 
-Protocol: FrSky XJT (D8) Channels: 1-8
+1-8
 
 External Radio Module
 
-Protocol: OFF
+OFF
 
 Trainer port
 
-Mode: Master/Jack
+Master/Jack
 
 Flight modes
 
@@ -743,17 +743,17 @@ FrSky S.PORT
 
 RSSI Alarms
 
-Low: < 45; Critical: < 42; Telemetry audio: Enable
+ Enable
 
 Altimetry
 
-Vario source:
+ 
 
-Vario limits >Sink max: -10; Sink min: -0.5; Climb min: 0.5; Climb max: 10; Center silent: No
+ No
 
 Top Bar
 
-Volts source: None; Altitude source: None
+ None
 
 Multi sensors
 
